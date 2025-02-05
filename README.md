@@ -1,4 +1,4 @@
-# 森林探险跳跃游戏
+# 森林探险版——跳一跳
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/a3d14c35-8009-45d0-af5a-40947375126f" width="48%" />
