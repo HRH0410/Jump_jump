@@ -1,8 +1,9 @@
 # 森林探险跳跃游戏
-![image](https://github.com/user-attachments/assets/a3d14c35-8009-45d0-af5a-40947375126f) ![image](https://github.com/user-attachments/assets/7c53a381-d7e8-4b38-97a7-e7d0fb43ca9f)
 
-
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/a3d14c35-8009-45d0-af5a-40947375126f" width="48%" />
+  <img src="https://github.com/user-attachments/assets/7c53a381-d7e8-4b38-97a7-e7d0fb43ca9f" width="48%" />
+</div>
 
 ## 游戏简介
 
