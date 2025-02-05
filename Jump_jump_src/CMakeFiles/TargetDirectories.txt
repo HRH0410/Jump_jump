@@ -1,3 +1,0 @@
-D:/JUMP_JUMP/cmake-build-debug/CMakeFiles/JUMP_JUMP.dir
-D:/JUMP_JUMP/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/JUMP_JUMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
